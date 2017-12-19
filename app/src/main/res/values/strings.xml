@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PositionApp</string>
+    <string name="latitude">Latitude:</string>
+    <string name="longitude">Longitude:</string>
+    <string name="altitude">Altitude:</string>
+    <string name="noGpsActive">GPS disabled</string>
+    <string name="restore">, can restore state</string>
+    <string name="finishing">" Finishing"</string>
+</resources>
